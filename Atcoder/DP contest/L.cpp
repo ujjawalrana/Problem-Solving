@@ -98,16 +98,3 @@ int main(){
 
 
 
-
-
-
-
-// This is iterative code of L
-
-
-
-
-
-
-
-
